@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 267
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,7 +139,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: atk 2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 160
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1df463a8740714484559f8b88c5c5f
+      internalID: -46422569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk 2_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 144
+        height: 141
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e8b5bd195f204787b67170ab71ed1
+      internalID: 69492947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk 2_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2
+        width: 152
+        height: 155
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf3dca558ceac40b9cdf0d2489630f
+      internalID: 976991014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk 2_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2
+        width: 257
+        height: 192
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ebd364f738e341a6009844929ebaa
+      internalID: 1273970016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk 2_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2
+        width: 248
+        height: 178
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7fba97a0e1d9145a2379468defc05c
+      internalID: 458739468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk 2_6
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2
+        width: 224
+        height: 156
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc7b3a10496f44993a58eed3922650
+      internalID: 524183938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk 2_8
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2
+        width: 241
+        height: 121
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686897bcd6b53047980e2460f7e8b86
+      internalID: -834151411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk 2_10
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2
+        width: 164
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b566208b0b9b4eb48f3cc5b568ba0
+      internalID: 901210667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +318,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      atk 2_8: -834151411
+      atk 2_1: 69492947
+      atk 2_11: 1176495262
+      atk 2_2: 976991014
+      atk 2_10: 901210667
+      atk 2_9: -290283227
+      atk 2_4: 458739468
+      atk 2_5: 61614770
+      atk 2_3: 1273970016
+      atk 2_7: 2006992297
+      atk 2_6: 524183938
+      atk 2_0: -46422569
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

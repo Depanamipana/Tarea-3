@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 208
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,7 +139,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: caminar_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 196
+        height: 120
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eadc6af2f155047929eb93b6bad70d
+      internalID: 320086582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 7
+        width: 196
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff912c06389e1624fa55673ddbee29d1
+      internalID: -1482523602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 7
+        width: 196
+        height: 115
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe389034fb75c74cbf6f3f2e068aa54
+      internalID: 903216251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 7
+        width: 198
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f05d567dc8c6c438213b9bacb586c2
+      internalID: 190671058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_4
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 7
+        width: 216
+        height: 119
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94820723ea2b0e7438f1fb8b680aff9e
+      internalID: 907072938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 5
+        width: 197
+        height: 115
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8e1bdf8a0537744abbafa755910663
+      internalID: -1498773986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_6
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 7
+        width: 197
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6edb1d36eb202245bebf9d6c1b4bee7
+      internalID: -2032618841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_7
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 7
+        width: 197
+        height: 119
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9006bc8593d9f449423b64f288e372
+      internalID: 1772715538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_8
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 7
+        width: 198
+        height: 117
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53685cd43ef2db245b8f9249c8eb5536
+      internalID: 2031312543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar_9
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 7
+        width: 217
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eb5fd8055aa514f91e6628ca6743cf
+      internalID: -1691392950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +360,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      caminar_7: 1772715538
+      caminar_1: -1482523602
+      caminar_3: 190671058
+      caminar_5: -1498773986
+      caminar_6: -2032618841
+      caminar_8: 2031312543
+      caminar_0: 320086582
+      caminar_9: -1691392950
+      caminar_4: 907072938
+      caminar_2: 903216251
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
