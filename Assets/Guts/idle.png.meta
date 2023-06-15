@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 241
+  spritePixelsToUnits: 260
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -145,9 +145,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 9
-        width: 239
-        height: 133
+        y: 14
+        width: 238
+        height: 129
       alignment: 8
       pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,7 +166,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 262
-        y: 11
+        y: 14
         width: 244
         height: 131
       alignment: 8
@@ -187,7 +187,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 523
-        y: 11
+        y: 14
         width: 239
         height: 131
       alignment: 8
@@ -208,7 +208,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 779
-        y: 11
+        y: 14
         width: 239
         height: 131
       alignment: 8
@@ -228,8 +228,8 @@ TextureImporter:
       name: idle_4
       rect:
         serializedVersion: 2
-        x: 1028
-        y: 11
+        x: 1029
+        y: 14
         width: 246
         height: 131
       alignment: 8
@@ -250,7 +250,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1297
-        y: 11
+        y: 14
         width: 254
         height: 131
       alignment: 8
@@ -271,7 +271,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1563
-        y: 11
+        y: 14
         width: 244
         height: 131
       alignment: 8
