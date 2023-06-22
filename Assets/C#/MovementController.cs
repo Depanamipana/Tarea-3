@@ -11,6 +11,7 @@ public class MovementController : MonoBehaviour
     [SerializeField] private Animator animator;
     private Rigidbody2D rb;
     private bool isGrounded = false;
+    private bool firstJump = false;
     private bool isRunning = false; // Bool para controlar si el jugador está corriendo
     private float originalMoveSpeed; // Velocidad de movimiento original
     private bool isJumping = false; // Bool para controlar si el jugador está saltando
@@ -71,8 +72,9 @@ public class MovementController : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyUp(KeyCode.Space) && isGrounded)
+        if (Input.GetKeyUp(KeyCode.Space) && (isGrounded || firstJump))
         {
+            firstJump = false;
             isGrounded = false;
             isJumpingUp = true;
             isJumping = true;
@@ -109,23 +111,35 @@ public class MovementController : MonoBehaviour
         animator.SetBool("IsJumping", isJumping);
     }
 
-    void OnCollisionEnter2D(Collision2D other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         // Verificar si estamos en el suelo
-        if (other.gameObject.CompareTag("Ground"))
+        if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
             isJumping = false;
         }
     }
 
-    void OnCollisionStay2D(Collision2D other)
+    private void OnTriggerStay2D(Collider2D collision)
     {
         // Verificar si estamos en el suelo
-        if (other.gameObject.CompareTag("Ground"))
+        if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
             isJumping = false;
         }
     }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        // Verificar si estamos en el suelo
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            firstJump = true;
+            isGrounded = false;
+            isJumping = true;
+        }
+    }
 }
+
