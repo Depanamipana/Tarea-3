@@ -14,7 +14,7 @@ public class EnemyHealth : MonoBehaviour
 
     void OnTriggerEnter2D(Collision2D collision)
     {
-        
+        Debug.Log(collision.gameObject.name);
         if (collision.gameObject.CompareTag("Player")) // Verificar si la colisión es con el jugador
         {
             // Restar vida al enemigo

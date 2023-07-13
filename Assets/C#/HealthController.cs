@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
 public class HealthController : MonoBehaviour
 {
+
+    public UnityEvent onDeath;
     [SerializeField] private int maxHealth = 100; // Vida máxima del personaje
     [SerializeField] private int damageAmount = 10; // Cantidad de daño al recibir una colisión
     [SerializeField] private string sceneToLoad = "GameOverScene"; // Nombre de la escena a cargar cuando la vida llegue a 0

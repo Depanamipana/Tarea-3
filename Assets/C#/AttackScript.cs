@@ -17,5 +17,9 @@ public class AttackScript : MonoBehaviour
         {
             animator.SetBool("IsAttack", true);
         }
+        if (Input.GetMouseButtonDown(1))
+        {
+            animator.SetBool("IsAttack3", true);
+        }
     }
 }
