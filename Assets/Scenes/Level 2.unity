@@ -123,6 +123,228 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &15617415
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -119.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &15617416 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 15617415}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &106429605
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -142.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &106429606 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 106429605}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &257474660
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -101
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &257474661 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 257474660}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &311175524
 GameObject:
   m_ObjectHideFlags: 0
@@ -419,6 +641,80 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firstSceneName: Main Menu
+--- !u!1001 &474325384
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -110.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &474325385 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 474325384}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &632975980
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,7 +778,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 632975980}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.505738, y: 94.80871, z: -10}
+  m_LocalPosition: {x: -4.50567, y: 94.80871, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -490,6 +786,302 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &659998793
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -142.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &659998794 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 659998793}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &690714926
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -36.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &690714927 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 690714926}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &725505499
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -129.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &725505500 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 725505499}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &755074098
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -128.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &755074099 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 755074098}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &764922915
 GameObject:
   m_ObjectHideFlags: 0
@@ -900,10 +1492,676 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &831972851
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -118.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &831972852 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 831972851}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &832093870 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1234273859}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &870685311
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -93.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &870685312 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 870685311}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &877638731 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 16031966984029777, guid: 96c7064330c1e6a4a9e8dd4e00290822, type: 3}
   m_PrefabInstance: {fileID: 16031966250791450}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1072413534
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -69.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1072413535 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1072413534}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1098217846
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -85.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1098217847 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1098217846}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1213385816
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -21.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -76.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1213385817 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1213385816}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1234273859
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -167.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!1001 &1362552342
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -101
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1362552343 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1362552342}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1431771524
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -110.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1431771525 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1431771524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1433012280
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -120.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1433012281 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1433012280}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1499806937
 GameObject:
@@ -981,6 +2239,154 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1499806937}
   m_CullTransparentMesh: 1
+--- !u!1001 &1506720016
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -118.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1506720017 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1506720016}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1510685688
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -153.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1510685689 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1510685688}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1551834431
 GameObject:
   m_ObjectHideFlags: 0
@@ -1057,6 +2463,212 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1551834431}
   m_CullTransparentMesh: 1
+--- !u!1001 &1558200700
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -118.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1558200701 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1558200700}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1571287932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1571287933}
+  m_Layer: 0
+  m_Name: enemigos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1571287933
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571287932}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.9339213, y: 285.99014, z: -11.329088}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 832093870}
+  - {fileID: 1660962505}
+  - {fileID: 1510685689}
+  - {fileID: 1919750496}
+  - {fileID: 659998794}
+  - {fileID: 106429606}
+  - {fileID: 1604250113}
+  - {fileID: 1932839760}
+  - {fileID: 755074099}
+  - {fileID: 725505500}
+  - {fileID: 1506720017}
+  - {fileID: 1558200701}
+  - {fileID: 831972852}
+  - {fileID: 15617416}
+  - {fileID: 1433012281}
+  - {fileID: 1431771525}
+  - {fileID: 474325385}
+  - {fileID: 2049310349}
+  - {fileID: 1695327793}
+  - {fileID: 257474661}
+  - {fileID: 1362552343}
+  - {fileID: 870685312}
+  - {fileID: 1098217847}
+  - {fileID: 1213385817}
+  - {fileID: 1072413535}
+  - {fileID: 690714927}
+  - {fileID: 1883189799}
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1604250112
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -134.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1604250113 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1604250112}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1608151045 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 16031967681675807, guid: 96c7064330c1e6a4a9e8dd4e00290822, type: 3}
@@ -1175,6 +2787,154 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1660962504
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -160.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1660962505 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1660962504}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1695327792
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -101
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1695327793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1695327792}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1722756244
 GameObject:
   m_ObjectHideFlags: 0
@@ -7846,6 +9606,228 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1883189798
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1883189799 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1883189798}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1919750495
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -153.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1919750496 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1919750495}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1932839759
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -134.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &1932839760 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 1932839759}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1960227355
 GameObject:
   m_ObjectHideFlags: 0
@@ -17707,6 +19689,80 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pausePanel: {fileID: 2042306348}
   resumeButton: {fileID: 793499869}
+--- !u!1001 &2049310348
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1571287933}
+    m_Modifications:
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 877638731}
+    - target: {fileID: 3251197284650443783, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -110.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.329088
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_Name
+      value: enemigo fuego sprite aa_0 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251197284650443789, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+--- !u!4 &2049310349 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3251197284650443784, guid: 37640069bd5c3484aabc1137f4a0210e, type: 3}
+  m_PrefabInstance: {fileID: 2049310348}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &16031966250791450
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17714,6 +19770,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1608151050, guid: 96c7064330c1e6a4a9e8dd4e00290822, type: 3}
+      propertyPath: sceneToLoad
+      value: GameOverScene 2
+      objectReference: {fileID: 0}
     - target: {fileID: 16031967681675800, guid: 96c7064330c1e6a4a9e8dd4e00290822, type: 3}
       propertyPath: m_Name
       value: Player
@@ -17764,7 +19824,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 16031967702537596, guid: 96c7064330c1e6a4a9e8dd4e00290822, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.76808757
+      value: 0.76811016
       objectReference: {fileID: 0}
     - target: {fileID: 16031967702537596, guid: 96c7064330c1e6a4a9e8dd4e00290822, type: 3}
       propertyPath: m_LocalPosition.y
