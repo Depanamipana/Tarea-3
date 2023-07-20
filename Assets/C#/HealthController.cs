@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class HealthController : MonoBehaviour
 {
-
     public UnityEvent onDeath;
     [SerializeField] private int maxHealth = 100; // Vida máxima del personaje
     [SerializeField] private int damageAmount = 10; // Cantidad de daño al recibir una colisión
@@ -15,9 +14,15 @@ public class HealthController : MonoBehaviour
     private int currentHealth; // Vida actual del personaje
     private Transform lastCheckpoint; // Último checkpoint alcanzado
 
+    // Referencia al script HealthDisplay
+    public HealthDisplay healthDisplay;
+
     private void Start()
     {
         currentHealth = maxHealth;
+
+        // Actualizar el texto de vida al inicio del juego
+        healthDisplay.UpdateHealthText(currentHealth, maxHealth);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -35,6 +40,9 @@ public class HealthController : MonoBehaviour
         // Restar la cantidad de daño a la vida actual
         currentHealth -= amount;
 
+        // Actualizar el texto de vida en HealthDisplay
+        healthDisplay.UpdateHealthText(currentHealth, maxHealth);
+
         // Comprobar si la vida ha llegado a 0
         if (currentHealth <= 0)
         {
@@ -48,4 +56,5 @@ public class HealthController : MonoBehaviour
         lastCheckpoint = checkpoint;
     }
 }
+
 
