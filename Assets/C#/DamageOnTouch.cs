@@ -2,20 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DamageOnTouch : MonoBehaviour
+public class EnemyDamageOnContact : MonoBehaviour
 {
-    [SerializeField] private int damageAmount = 10; // la cantidad de daño que inflige al jugador
-    private HealthController healthController; // referencia al componente HealthController del jugador
+    [SerializeField] private int damageAmount = 10; // Cantidad de daño al contacto
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Si el objeto que toca tiene un componente HealthController, lo almacena en healthController
-        healthController = other.GetComponent<HealthController>();
-
-        // Si el objeto que toca tiene un componente HealthController, lo daña
-        if (healthController != null)
+        // Comprobar si la colisión proviene de un objeto con el tag "Player"
+        if (collision.gameObject.CompareTag("Player"))
         {
-            healthController.TakeDamage(damageAmount);
+            // Restar vida al jugador
+            collision.gameObject.GetComponent<HealthController>().TakeDamage(damageAmount);
         }
     }
 }

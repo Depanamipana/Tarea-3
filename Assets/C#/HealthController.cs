@@ -56,5 +56,3 @@ public class HealthController : MonoBehaviour
         lastCheckpoint = checkpoint;
     }
 }
-
-
